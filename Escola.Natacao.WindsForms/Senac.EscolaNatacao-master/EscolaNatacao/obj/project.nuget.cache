@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q1iJrreHxbsyfchOg4VkBWVsZvp0jGi3EuZ5a7UXSiI3UoC4/q53s58WdoykQUCOHVs2SgighxAOZxpiXBOF5A==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Arthur Garcia\\Downloads\\Senac.EscolaNatacao-master\\Senac.EscolaNatacao-master\\EscolaNatacao\\EscolaNatacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arthur Garcia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Arthur Garcia\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Arthur Garcia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Arthur Garcia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\bin\Debug\net6.0-windows\EscolaNatacao.exe
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\bin\Debug\net6.0-windows\EscolaNatacao.deps.json
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\bin\Debug\net6.0-windows\EscolaNatacao.runtimeconfig.json
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\bin\Debug\net6.0-windows\EscolaNatacao.dll
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\bin\Debug\net6.0-windows\EscolaNatacao.pdb
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\obj\Debug\net6.0-windows\EscolaNatacao.Form1.resources
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\obj\Debug\net6.0-windows\EscolaNatacao.csproj.GenerateResource.cache
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\obj\Debug\net6.0-windows\EscolaNatacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\obj\Debug\net6.0-windows\EscolaNatacao.AssemblyInfoInputs.cache
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\obj\Debug\net6.0-windows\EscolaNatacao.AssemblyInfo.cs
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\obj\Debug\net6.0-windows\EscolaNatacao.csproj.CoreCompileInputs.cache
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\obj\Debug\net6.0-windows\EscolaNatacao.dll
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\obj\Debug\net6.0-windows\refint\EscolaNatacao.dll
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\obj\Debug\net6.0-windows\EscolaNatacao.pdb
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\obj\Debug\net6.0-windows\EscolaNatacao.genruntimeconfig.cache
+D:\Users\Arthur Garcia\Downloads\Senac.EscolaNatacao-master\Senac.EscolaNatacao-master\EscolaNatacao\obj\Debug\net6.0-windows\ref\EscolaNatacao.dll
